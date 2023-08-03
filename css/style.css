@@ -121,6 +121,9 @@ position:absolute;
 font-size: 1em;
 
 }
+.container-top{
+  background-color: #B81822;
+}
 
 .topbar-right {
   position: relative;
