@@ -99,6 +99,28 @@ h6,
     justify-content: center;
     font-weight: normal;
 }
+.topbar{
+  position: relative;
+  background: var(--primary);
+  width: 100%;
+ align-items: center;
+ 
+}
+
+.topbar::before{
+  position:absolute;
+    content: "";
+    width: 30px;
+    height: 100%;
+    top: 0;
+    left: -15px;
+    transform: skewX(-30deg);
+    background-color: var(--primary);
+}
+.text{
+  font-size: 1em;
+
+}
 
 
 .topbar-right {
@@ -202,6 +224,12 @@ h6,
         visibility: visible;
         transition: .5s;
         opacity: 1;
+    }
+    .topbar-right{
+      visibility: visible;
+    }
+    .topbar-text{
+      display: none;
     }
 }
 
