@@ -4051,6 +4051,7 @@ font-size: 1.33em;
       }
       .carousel-text{
         font-family: 'Bebas Neue', sans-serif !important;
+        letter-spacing: 0.5px ;
 
           font-size: 24px;
       }
@@ -5059,6 +5060,23 @@ font-size: 1.33em;
   .text-container h1{
     font-size: 2.6em;
   }
+  .carousel-item{
+    height: 1000px;
+  }
+  .quote-form {
+    width: 90%;
+    max-width: 600px; /* Adjust the maximum width as needed */
+    margin: auto;
+    padding: 0px;
+    background-color: #ffffff94;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    order: 2; /* Set the order to 2 to move the form below the text */
+ margin-top: 27em;
+ height: 47%;
+
+}
+
   .contact-font-size{
     font-family: 'Bebas Neue', sans-serif;
     font-weight:  400;
@@ -5348,7 +5366,7 @@ font-style: italic;
 }
 
   .carousel-item {
-    height: 150vh;
+    height: 1030px;
     width: 100%;
 }
 .form-control::placeholder{
@@ -5392,8 +5410,9 @@ display: none;
 display: none;
 }
 .carousel-text{
-  font-weight: 400 !important;
+  font-weight: 600 !important;
   font-family: 'Bebas Neue', sans-serif !important;
+  letter-spacing: 0.5px ;
 
     font-size: 2.83em !important;
 }
@@ -5606,7 +5625,7 @@ font-style: italic;
 }
 
   .carousel-item {
-    height: 120vh;
+    height: 1020px !important;
     width: 100%;
 }
 .form-control::placeholder{
@@ -5650,8 +5669,9 @@ display: none;
 display: none;
 }
 .carousel-text{
-  font-weight: 400 !important;
+  font-weight: 600 !important;
   font-family: 'Bebas Neue', sans-serif !important;
+  letter-spacing: 0.5px ;
 
     font-size: 2.83em !important;
 }
@@ -5922,10 +5942,10 @@ display: none;
 display: none;
 }
 .carousel-text{
-  letter-spacing: 0px ;
+  letter-spacing: 0.5px ;
     font-size: 2.75em !important;
     font-family: 'Bebas Neue', sans-serif !important;
-font-style: normal;
+font-style: italic;
 }
 .carousel-description {
     font-size: 19px;
@@ -6159,7 +6179,7 @@ font-size: 1.4em;
 }
 
   .carousel-item {
-    height: 125vh;
+    height: 1120px;
     width: 100%;
 }
 .form-control::placeholder{
