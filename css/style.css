@@ -5872,7 +5872,7 @@ font-size: 1.4em;
 }
 
   .carousel-item {
-    height: 125vh;
+    height: 1100px !important;
     width: 100%;
 }
 .form-control::placeholder{
@@ -5924,7 +5924,7 @@ display: none;
 .carousel-text{
   font-weight: 500 !important ;
   letter-spacing: .5px ;
-    font-size: 3.2em !important;
+    font-size: 3em !important;
 }
 .carousel-description {
     font-size: 19px;
