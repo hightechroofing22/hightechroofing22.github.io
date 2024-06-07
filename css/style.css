@@ -4050,7 +4050,8 @@ font-size: 1.33em;
   display: none;
       }
       .carousel-text{
-  
+        font-family: 'Bebas Neue', sans-serif !important;
+
           font-size: 24px;
       }
       .carousel-description {
@@ -5392,6 +5393,8 @@ display: none;
 }
 .carousel-text{
   font-weight: 400 !important;
+  font-family: 'Bebas Neue', sans-serif !important;
+
     font-size: 2.83em !important;
 }
 .carousel-description {
@@ -5648,6 +5651,8 @@ display: none;
 }
 .carousel-text{
   font-weight: 400 !important;
+  font-family: 'Bebas Neue', sans-serif !important;
+
     font-size: 2.83em !important;
 }
 .carousel-description {
@@ -6201,6 +6206,8 @@ display: none;
 }
 .carousel-text{
   font-weight: 500 !important ;
+  font-family: 'Bebas Neue', sans-serif !important;
+
   letter-spacing: .5px ;
     font-size: 3.2em !important;
 }
