@@ -4071,8 +4071,8 @@ font-size: 1.33em;
       }
   
       .appointment {
-        height: 170vh;
-        }
+        height: 1175px;
+      }
         .contact-font-size{
           font-size: 2.5em !important;
       }
@@ -5444,7 +5444,7 @@ font-size: 1.33em;
 }
 
 .appointment {
-  height: 170vh;
+  height: 1175px;
   }
   .contact-font-size{
     font-family: 'Bebas Neue', sans-serif;
@@ -5703,7 +5703,7 @@ font-size: 1.33em;
 }
 
 .appointment {
-  height: 143vh;
+  height: 1150px;
   }
   .contact-font-size{
     font-family: 'Bebas Neue', sans-serif;
@@ -5978,7 +5978,7 @@ font-size: 1.33em;
 }
 
 .appointment {
-  height: 130vh;
+  height: 1150px;
   }
   .cards-container {
     display: block; /* Display cards as blocks on mobile */
