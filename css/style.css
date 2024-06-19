@@ -322,7 +322,7 @@ z-index: 1000; /* Add z-index to ensure it appears above other elements */
 
 .clipping-mask4 {
   position: absolute;
-  top: -107px !important;
+  top: -107px ;
   left: -12px;
   width: 180px; /* Adjust width as needed */
   height: 190%; /* Adjust height to match the logo container height */
@@ -357,7 +357,7 @@ margin-left: 17em;
 margin-right: 45px;
 padding: 0px 0 20px 0;
 color: #231F20;
-font-size: 25px !important;
+font-size: 25px ;
 font-weight: 600;
 outline: none;
 font-family: "Montserrat", sans-serif;
