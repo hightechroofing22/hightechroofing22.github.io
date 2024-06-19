@@ -10224,7 +10224,7 @@ z-index: -1; /* Ensure it is behind the image */
     z-index: 1; /* Ensure the clipping mask is behind other content */
   }
   .about-section-content{
-    padding-right: 6em !important;
+    padding-right: 4em !important;
     margin-left: .0em !important;
   }
   .mt-minus{
@@ -10582,7 +10582,7 @@ position: absolute;
 
 .about-img-container .shadow-box {
   position: absolute;
-  margin-left: 6em ;
+  margin-left: 2em ;
   top: -20px; /* Adjust the position as needed */
   left: -12px; /* Adjust the position as needed */
   width: 60%; /* Adjust the size as needed */
@@ -10602,8 +10602,10 @@ position: absolute;
 
 .about-img-home{
   height: 580px;
+  object-fit: cover;
+  height: 540px;
   background-size: cover !important;
-margin-left: 6em ;}
+margin-left: 2em ;}
 
 .service{
   margin-top: 4em;
@@ -11158,7 +11160,7 @@ position: absolute;
 
 .about-img-container .shadow-box {
   position: absolute;
-  margin-left: 6em ;
+  margin-left: 2em ;
   top: -20px; /* Adjust the position as needed */
   left: -12px; /* Adjust the position as needed */
   width: 60%; /* Adjust the size as needed */
@@ -11179,7 +11181,7 @@ position: absolute;
 .about-img-home{
   height: 580px;
   background-size: cover !important;
-margin-left: 6em ;}
+margin-left: 2em ;}
 
 .service{
   margin-top: 4em;
