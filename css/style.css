@@ -12503,7 +12503,7 @@ z-index: -1; /* Ensure it is behind the image */
 }
 
 }
-@media (min-width: 1600px) and (max-width: 1700px){
+@media (min-width: 1600px) and (max-width: 1679px){
   .border-left{
     margin-left: 3em;
   }
@@ -12774,6 +12774,585 @@ background-size: contain !important;  }
     font-weight: 500 !important; 
     font-style: normal;
     color: #fff;
+    font-size: 4.61em;
+  }
+
+  .btn-colour-form{
+    background-color: #000000;
+    padding: .75em 4em;
+    white-space: nowrap;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600 !important;
+      font-style: normal;
+      text-transform: uppercase;
+      color: #fff;
+      font-size: 1.13em;
+  }
+
+
+
+.navbar-brand {
+    position: relative; /* Ensure logo is above clipping mask */
+    z-index: 2; /* Ensure logo is above the clipping mask */
+    padding-left: .75em;
+}
+
+  
+
+
+.icon-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 33px;
+  height: 33px;
+  position: relative;
+}
+
+
+
+
+     .arrow-icon {
+      height: auto;
+      width: 60px;
+      margin-top: -4px;
+        margin-left: 5px; /* Adjust the margin as needed */
+      }
+      .btn-carousel {
+        background: rgb(241,34,38);
+      background: linear-gradient(180deg, rgba(241,34,38,1) 0%, rgba(159,24,29,1) 100%);      width: 500px;
+      font-family: "Montserrat", sans-serif;
+      border: none;
+      letter-spacing: .3px;
+      color: #fff;
+      padding: -0em 0 0em .25em;
+      text-transform: uppercase;
+      height: 54px;
+      width: 470px; /* Reduce the width */
+        margin-top: .4em;
+      white-space: nowrap;
+      font-size: 1.35em;
+      clip-path: polygon(14% 0%, 100% 0%, 86% 100%, 0% 100%);
+    }
+    
+      .text-container{
+        width: 70%;
+        margin-top: -15% !important;
+        text-align: left;
+      }
+      
+
+.slant {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px; /* Adjust the height as needed */
+  background-color: white; /* Background color */
+  clip-path: polygon(0% 85%, 100% 0%, 100% 100%, 0% 100%);
+  z-index: 2; /* Ensure it's above the carousel */
+}
+.form-control::placeholder {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #999; /* Change placeholder color as needed */
+}
+.custom-select {
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-size: 15px !important; /* Change font size as needed */
+  font-weight: 200;
+  color: #767976 !important; /* Change placeholder color as needed */
+}
+.list-text{
+  color: #020202;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 500 !important;
+    font-style: italic;
+    font-size: 1.844em;
+    white-space: nowrap ;
+}
+.list-text-about{
+  color: #020202;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 800 !important;
+    font-style: italic;
+    font-size: 1.54em;
+}
+.about-img-container {
+  position: relative;
+}
+
+.about-img-container .shadow-box {
+  position: absolute;
+  margin-left: 6em ;
+  top: -20px; /* Adjust the position as needed */
+  left: -12px; /* Adjust the position as needed */
+  width: 60%; /* Adjust the size as needed */
+  height: 95%; /* Adjust the size as needed */
+  background-color: #1E1E1E; /* Black color */
+  z-index: -1; /* Ensure it is behind the image */
+}
+ .shadow-box-contact {
+  position: absolute;
+  top: -30px; /* Adjust the position as needed */
+  left: -25px; /* Adjust the position as needed */
+  width: 60%; /* Adjust the size as needed */
+  height: 95%; /* Adjust the size as needed */
+  background-color: #1E1E1E; /* Black color */
+  z-index: -1; /* Ensure it is behind the image */
+}
+
+.about-img-home{
+  height: 660px;
+  background-size: cover !important;
+margin-left: 6em ;}
+
+.service{
+  margin-top: 4em;
+}
+
+  .body-text-dark{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400 !important;     
+    font-size: 1.27em;
+    color: #020202;
+  }
+
+
+.swiper-pagination {
+position: absolute;
+bottom: -70px !important; /* Adjust the distance from the bottom as needed */
+left: 0;
+width: 100%;
+text-align: center;
+}
+.swiper-pagination .swiper-pagination-bullet {
+  background-color: #2e2d2d;
+}
+
+.swiper {
+  overflow: visible !important;
+}
+
+.review-scroll {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #797979;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+.p-5{
+  padding: 2em 1.6em !important;
+}
+.appointment {
+  background: linear-gradient(to right, rgba(3, 3, 3, 0.692), rgba(0, 0, 0, .63)), url(../img/appointment.jpg) left center no-repeat;
+  background-size: cover;
+  height: 65vh;
+  margin-bottom: 7em !important;
+}
+    
+
+.font-type-contact{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 500 !important;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 3.68em;
+}
+.appointment p{
+  font-size: 1em;
+}
+.about-img{
+  background-image: url(../img/about-page-image.jpg);
+  background-size: cover;
+  height: 760px;
+background-position: top;
+}
+.about-page-link{
+  white-space: nowrap;
+}
+.section-header-text-page{
+  color: #979797;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400 !important;
+    font-style: normal;
+    font-size: 1.690em;
+    letter-spacing: 0px;
+}
+.iframe-container {
+  background-color: black;
+  padding: 20px; /* Adjust padding as needed */
+  border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+.iframe-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.p-l-5{
+  margin-left: 2.7em;
+  margin-top: 1em;
+}
+.services-image1{
+  height: 1550px !important;
+}
+.services-image2{
+  height: 1720px !important;
+}
+.services-image3{
+  height: 1260px !important;
+}
+.services-image4{
+  height: 108 0px !important;
+}
+.services-image5{
+  height: 1690px !important;
+}
+.py-15{
+  padding-bottom: 8em;
+  padding-top: 1em;
+}
+.iframe-container {
+  width: 100% !important;
+  padding-top: 100%; /* This makes the container a square */
+  height: 100% !important;
+}
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100% !important;
+}
+.shadow-box-contact {
+position: absolute;
+top: -20px; /* Adjust the position as needed */
+left: -20px; /* Adjust the position as needed */
+width: 60%; /* Adjust the size as needed */
+height: 90%; /* Adjust the size as needed */
+background-color: #1E1E1E; /* Black color */
+z-index: -1; /* Ensure it is behind the image */
+}
+
+
+.page-header .breadcrumb-item,
+.page-header .breadcrumb-item a {
+  font-size: 22px !important;
+  font-family: "Barlow Condensed", sans-serif !important;
+  font-weight: 400 !important;
+    font-style: normal;
+}
+
+
+
+.page-header {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.3449754901960784) 100%),
+  url(../img/carousel-1.jpg) center center no-repeat;    background-size: cover;
+  height: 340px;
+}
+
+.font-type-page-header{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 500 !important;
+    font-style: normal;
+    font-size: 4.94em !important;
+    margin-top:  -.07em;
+}
+
+
+
+
+}
+@media (min-width: 1679px) and (max-width: 1700px){
+  .border-left{
+    margin-left: 3em;
+  }
+  .font-type-services{
+    font-family: "Bebas Neue", sans-serif;
+  
+  font-weight: 400 !important;
+  color: #121212;
+  font-size: 2.31em;
+  }
+  .topbar-left-clip {
+    position: absolute;
+    top: 0;
+    left: 0;
+  margin-left: 13.2em;
+    width: 210px; /* Adjust the width of the clipping mask */
+    height: 71%; /* Set to match the height of the top bar */
+    background-color: #000; /* Background color of the clipping mask */
+    clip-path: polygon(100% 0, 71% 0, 100% 100%);
+    z-index: 1; /* Ensure the clipping mask is behind other content */
+  }
+  .about-section-content{
+    padding-right: 6em !important;
+    margin-left: .0em !important;
+  }
+  .mt-minus{
+    margin-top: 2.5em;
+  }
+  .service-font-type{
+    color:  #121212;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      font-size: 3.3em !important;
+    }
+  .about-us-page-content{
+    padding-left: 1.85em !important;
+  }
+  .font-future-about-page{
+    color:  #121212;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      font-size: 3.5em !important;
+    }
+  .roofing2 {
+    color: #fff ;
+    position: relative;
+  }
+
+  .roofing2::after {
+    content: "";
+    position: absolute;
+    bottom: 6px; /* Adjust the distance between text and underline */
+    left: 0;
+    width: 100%;
+    border-bottom: 7px solid #F62427; /* Adjust the thickness as needed */
+  
+    }
+  .choose-us-header{
+    color: #121212   ;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      text-shadow: 1px 6px 2px rgba(0, 0, 0, 0.05); /* Adjust the values as needed */
+      font-size: 3.65em !important;
+    }
+  .about-section-font{
+    color: #121212   ;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      text-shadow: 1px 6px 2px rgba(0, 0, 0, 0.05); /* Adjust the values as needed */
+    
+    font-size: 3.64em;
+    }
+  .py-23{
+    padding: .27em 0em; 
+    }
+
+  .contact-info {
+    display: inline-flex;
+    white-space: nowrap;
+    margin-right: 0px;
+    align-items: center;
+  }
+  .topbar-text1{
+    white-space: nowrap;
+    margin-left: 8em !important;
+    font-family: "Montserrat", sans-serif;
+      border: none;
+      letter-spacing: .3px;    font-weight: 600 !important;
+      font-style: normal;
+      color: #fff;
+      padding-top: .7em  !important;
+      z-index: 1000;
+      font-size: 1.31em !important;
+  }
+  .btn-nav{
+    background: rgb(241,34,38);
+    background: linear-gradient(180deg, rgba(241,34,38,1) 0%, rgba(159,24,29,1) 100%);     border-radius: 5em;
+    font-size: 21px;
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    white-space: wrap;
+    font-weight: 600;
+    margin-bottom: .65em;
+    border-radius: 0px;
+    text-transform: uppercase;
+    color: #fff !important;
+    letter-spacing: .3px;
+    font-optical-sizing: auto;
+    font-style: normal;
+  padding: .48em 1em;
+  margin-right: -1em;
+  }  
+ 
+
+
+  
+  .navbar .navbar-nav .nav-link {
+  margin-right: 42px;
+  padding: 0px 0 10px 0;
+  color: #231F20;
+  font-size: 22.5px !important;
+  font-weight: 600;
+  outline: none;
+  font-family: "Montserrat", sans-serif;
+    font-style: normal;}
+
+  .logo-container {
+    position: relative;
+    
+}
+  .logo {
+    width: 12.27em !important;
+    margin-right: 2em !important;
+    margin-bottom: 4.3em;
+    margin-left: 4.7em;
+    margin-top: .7em;
+    }
+  .clipping-mask4 {
+    position: absolute;
+    top: -80px;
+    left: -65px;
+    width: 184px; /* Adjust width as needed */
+    height: 181.75%; /* Adjust height to match the logo container height */
+    background: rgb(241,34,38);
+    background: linear-gradient(180deg, rgba(241,34,38,1) 0%, rgba(159,24,29,1) 100%);    
+    clip-path: polygon(83% 0, 59% 54%, 81% 100%, 0% 100%, 0 59%, 0% 0%);  z-index: 0; /* Ensure clipping mask is below the logo */
+  }
+
+  .topbar-text2{
+    white-space: nowrap;
+    margin-left: 14em !important;
+    font-family: "Montserrat", sans-serif;
+      border: none;
+      padding-top: .7em !important;
+
+      letter-spacing: .3px;    font-weight: 600 !important;
+      font-style: normal;
+      font-size: 1.21em !important;
+  }
+
+  .topbar::before{
+    position:absolute;
+      content: "";
+      width: 30px;
+      height: 100%;
+      top: 0;
+      left: -15px;
+      transform: skewX(-130deg);
+      background: #231F20;
+    }
+    .text{
+    font-size: 1em;
+    
+    }
+
+    .topbar-right {
+      position: relative;
+      background: #000;
+      width: 2000px;
+      top: -20px !important;
+      overflow: hidden;
+      height: 70px !important;
+  right: 50% !important;
+    }
+    
+    .topbar-right::before {
+      position: absolute;
+      content: "";
+      overflow: hidden;
+      height: 100%;
+      top: 0;
+      left: -15px;
+      transform: skewX(-30deg);
+      background: #1000;
+    }
+  
+  .navbar .navbar-brand {
+    position: relative;
+    padding-right: 30px;
+    height: 100px !important;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    }
+  .carousel-item{
+    height: 820px;
+  }
+
+  .quote-form {
+    max-width: 1000px; /* Adjust the maximum width of the form */
+    margin: 25px; /* Center the form on the page */
+    padding: 0px; /* Adjust padding as needed */
+    background-color: #ffffff; /* Adjust background color if needed */
+    border-radius: 0px; /* Adjust border radius if needed */
+    height: 64%;
+    margin-right: 6em;
+    border-bottom: 10px solid #797979;
+    width: 30%;
+    margin-top: -6% !important;
+    background-color: #ffffff91; /* Adjust background color if needed */
+  
+  
+  
+  }
+  
+  .half-width {
+    width: 229px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+  .form-header {
+    text-align: center;
+    font-size: 29px;
+    padding-top: .65em;
+    margin: 0 auto 20px;
+    color: #fafafa;
+    width: 100%;
+  height: 80px;    
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 500 !important;
+    font-style: normal;
+    font-style: normal;
+  z-index: 5 !important;
+  position: absolute;
+  }
+  .form-content{
+    margin-top: 6.4em;
+  }
+  
+  .testimonial-content .user-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    margin-right: 3.25em;
+  }
+  .body-text{
+    font-size: 1.4321em;
+  }
+  .carousel-img{
+    height: 100%;
+background-size: contain !important;  }
+  .header-text{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500 !important; 
+    font-style: normal;
+    color: #fff;
+    padding-right: 2em;
     font-size: 4.61em;
   }
 
