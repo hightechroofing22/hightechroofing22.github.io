@@ -5314,7 +5314,7 @@ color: #020202;
 
   .section-header-text{
     color: #979797;
-    font-family: "Barlow Condensed", sans-serif;
+    font-family: "Barlow Condensed", sans-serif !important;
     font-weight: 400 !important;    
       font-size: 1.50em !important;
       letter-spacing: .1px;
