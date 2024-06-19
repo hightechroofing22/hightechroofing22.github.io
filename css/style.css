@@ -8046,7 +8046,7 @@ padding: 0em 0em !important;
       letter-spacing: .3px;    font-weight: 600 !important;
       font-style: normal;
       color: #fff;
-      padding-top: 1.2em;
+      padding-top: 1.2em !important;
       z-index: 1000;
       font-size: 1em !important;
   }
@@ -8068,7 +8068,7 @@ padding: 0em 0em !important;
     margin-left: 4em !important;
     font-family: "Montserrat", sans-serif;
       border: none;
-      padding-top: 1.2em;
+      padding-top: 1.2em !important;
 
       letter-spacing: .3px;    font-weight: 600 !important;
       font-style: normal;
@@ -8599,7 +8599,7 @@ z-index: -1; /* Ensure it is behind the image */
       letter-spacing: .3px;    font-weight: 600 !important;
       font-style: normal;
       color: #fff;
-      padding-top: 1.2em;
+      padding-top: 1.2em !important;
       z-index: 1000;
       font-size: 1em !important;
   }
@@ -8621,7 +8621,7 @@ z-index: -1; /* Ensure it is behind the image */
     margin-left: 4em !important;
     font-family: "Montserrat", sans-serif;
       border: none;
-      padding-top: 1.2em;
+      padding-top: 1.2em !important;
 
       letter-spacing: .3px;    font-weight: 600 !important;
       font-style: normal;
@@ -9152,7 +9152,7 @@ z-index: -1; /* Ensure it is behind the image */
       letter-spacing: .3px;    font-weight: 600 !important;
       font-style: normal;
       color: #fff;
-      padding-top: 1.2em;
+      padding-top: 1.2em !important;
       z-index: 1000;
       font-size: 1em !important;
   }
@@ -9718,7 +9718,7 @@ z-index: -1; /* Ensure it is behind the image */
       letter-spacing: .3px;    font-weight: 600 !important;
       font-style: normal;
       color: #fff;
-      padding-top: 1.2em;
+      padding-top: 1.2em !important;
       z-index: 1000;
       font-size: 1em !important;
   }
@@ -9746,7 +9746,7 @@ z-index: -1; /* Ensure it is behind the image */
     margin-left: 9em !important;
     font-family: "Montserrat", sans-serif;
       border: none;
-      padding-top: 1.2em;
+      padding-top: 1.2em !important;
 
       letter-spacing: .3px;    font-weight: 600 !important;
       font-style: normal;
