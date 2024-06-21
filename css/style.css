@@ -16289,11 +16289,10 @@ right: 50% !important;
 /* Initial state - translate upwards to hide */
 
 .custom-select {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
   height: 55px;
-  font-family: 'Barlow Condensed', sans-serif;
-  font-size: 18px;
-  font-weight: 200 ;
-  border: 0;
 }
 
 @media (min-width: 1170px) and (max-width: 1190px){
