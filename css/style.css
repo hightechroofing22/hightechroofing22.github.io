@@ -15315,9 +15315,9 @@ z-index: -1; /* Ensure it is behind the image */
     position: absolute;
     top: 0;
     left: 0;
-  margin-left: 8.28em !important;
+  margin-left: 8.2em !important;
     width: 210px; /* Adjust the width of the clipping mask */
-    height: 70%; /* Set to match the height of the top bar */
+    height: 72% !important; /* Set to match the height of the top bar */
     background-color: #000; /* Background color of the clipping mask */
     clip-path: polygon(100% 0, 71% 0, 100% 100%);
     z-index: 1; /* Ensure the clipping mask is behind other content */
@@ -16320,7 +16320,7 @@ right: 50% !important;
   .topbar-left-clip {
     height: 70%; /* Set to match the height of the top bar */
 
-  margin-left: 3.4em;
+  margin-left: 3.46em;
   
   }
 }
@@ -16328,7 +16328,7 @@ right: 50% !important;
   .topbar-left-clip {
     height: 70%; /* Set to match the height of the top bar */
 
-  margin-left: 3.85em;
+  margin-left: 3.75em;
   
   }
 }
@@ -16400,7 +16400,7 @@ right: 50% !important;
   .topbar-left-clip {
     height: 70%; /* Set to match the height of the top bar */
 
-  margin-left: 5.3em;
+  margin-left: 5.34em;
   
   }
 }
@@ -16416,7 +16416,7 @@ right: 50% !important;
   .topbar-left-clip {
     height: 70%; /* Set to match the height of the top bar */
 
-  margin-left: 5.63em;
+  margin-left: 5.583em;
   
   }
 }
@@ -16542,9 +16542,9 @@ right: 50% !important;
 }
 @media (min-width: 1424px) and (max-width: 1444px){
   .topbar-left-clip {
-    height: 70%; /* Set to match the height of the top bar */
+    height: 69.199% !important; /* Set to match the height of the top bar */
 
-  margin-left: 9.49em;
+  margin-left: 9.4em;
   
   }
 }
