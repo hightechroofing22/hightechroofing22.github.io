@@ -15651,15 +15651,15 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
