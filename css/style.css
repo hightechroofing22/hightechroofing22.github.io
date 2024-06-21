@@ -16989,3 +16989,28 @@ right: 50% !important;
     width: calc(50% - 10px); /* Subtracting margin space */
   }
 }
+/* Custom CSS for the spinner logo */
+/* Custom CSS for the spinner */
+.custom-spinner-container {
+  width: 5rem; /* Adjust size as needed */
+  height: 5rem; /* Adjust size as needed */
+  border: 5px solid rgba(0, 0, 0, 0.1); /* Light border */
+  border-top: 5px solid #9B1521; /* Blue border */
+  border-radius: 50%; /* Make it a circle */
+  animation: spin 1s linear infinite; /* Spin animation */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Custom CSS for the logo inside the spinner */
+.spinner-logo {
+  width: 3rem; /* Adjust size as needed */
+  height: auto;
+  position: absolute; /* Position it in the center */
+}
