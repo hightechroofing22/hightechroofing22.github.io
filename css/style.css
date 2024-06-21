@@ -8256,10 +8256,7 @@ background-size: contain !important;  }
 
 }
 
-.half-width {
-  width: 179px !important;
-  width: calc(50% - 10px); /* Subtracting margin space */
-}
+
 .form-header {
   text-align: center;
   font-size: 25px;
@@ -8816,7 +8813,7 @@ background-size: contain !important;  }
 }
 
 .half-width {
-  width: 179px !important;
+  width: 188px !important;
   width: calc(50% - 10px); /* Subtracting margin space */
 }
 .form-header {
@@ -9364,7 +9361,7 @@ background-size: contain !important;  }
 }
 
 .half-width {
-  width: 195px !important;
+  width: 194px !important;
   width: calc(50% - 10px); /* Subtracting margin space */
 }
 .form-header {
@@ -9920,10 +9917,7 @@ background-size: contain !important;  }
 
 }
 
-.half-width {
-  width: 195px !important;
-  width: calc(50% - 10px); /* Subtracting margin space */
-}
+
 .form-header {
   text-align: center;
   font-size: 27px;
@@ -11592,10 +11586,7 @@ background-size: contain !important;  }
 
 }
 
-.half-width {
-  width: 218px !important;
-  width: calc(50% - 10px); /* Subtracting margin space */
-}
+
 .form-header {
   text-align: center;
   font-size: 29px;
@@ -12072,10 +12063,7 @@ z-index: -1; /* Ensure it is behind the image */
   
   }
   
-  .half-width {
-    width: 216px !important;
-    width: calc(50% - 10px); /* Subtracting margin space */
-  }
+
   .form-header {
     text-align: center;
     font-size: 29px;
@@ -13208,7 +13196,7 @@ z-index: -1; /* Ensure it is behind the image */
   }
   
   .half-width {
-    width: 229px !important;
+    width: 232px !important;
     width: calc(50% - 10px); /* Subtracting margin space */
   }
   .form-header {
@@ -14970,7 +14958,7 @@ z-index: -1; /* Ensure it is behind the image */
   }
   
   .half-width {
-    width: 235px !important;
+    width: 236px !important;
     width: calc(50% - 10px); /* Subtracting margin space */
   }
   .form-header {
@@ -15243,19 +15231,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1550px !important;
+  height: 1440px !important;
 }
 .services-image2{
   height: 1720px !important;
 }
 .services-image3{
-  height: 1260px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 108 0px !important;
+  height: 1070px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1600px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -15327,7 +15315,7 @@ z-index: -1; /* Ensure it is behind the image */
     position: absolute;
     top: 0;
     left: 0;
-  margin-left: 8.14em !important;
+  margin-left: 8.28em !important;
     width: 210px; /* Adjust the width of the clipping mask */
     height: 70%; /* Set to match the height of the top bar */
     background-color: #000; /* Background color of the clipping mask */
@@ -15827,19 +15815,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1680px !important;
+  height: 1499px !important;
 }
 .services-image2{
   height: 1790px !important;
 }
 .services-image3{
-  height: 1360px !important;
+  height: 1260px !important;
 }
 .services-image4{
-  height: 1180px !important;
+  height: 1130px !important;
 }
 .services-image5{
-  height: 1830px !important;
+  height: 1770px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -16412,7 +16400,7 @@ right: 50% !important;
   .topbar-left-clip {
     height: 70%; /* Set to match the height of the top bar */
 
-  margin-left: 5.25em;
+  margin-left: 5.3em;
   
   }
 }
@@ -16887,5 +16875,117 @@ right: 50% !important;
   }
   .services-image5{
     height: 1740px !important;
+  }
+}
+@media (min-width: 1430px) and (max-width: 1450px){
+
+  .half-width {
+    width: 224px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1400px) and (max-width: 1430px){
+
+  .half-width {
+    width: 218px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1450px) and (max-width: 1500px){
+
+  .half-width {
+    width: 226px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1500px) and (max-width: 1530px){
+
+  .half-width {
+    width: 212px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1530px) and (max-width: 1550px){
+
+  .half-width {
+    width: 216px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1550px) and (max-width: 1599px){
+
+  .half-width {
+    width: 218px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1915px) and (max-width: 2110px){
+
+  .half-width {
+    width: 229px ;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1170px) and (max-width: 1179px){
+
+  .half-width {
+    width: 207px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1179px) and (max-width: 1189px){
+
+  .half-width {
+    width: 207px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1189px) and (max-width: 1270px){
+
+  .half-width {
+    width: 209px !important ;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1000px) and (max-width: 1020px){
+
+  .half-width {
+    width: 174px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1179px) and (max-width: 1189px){
+
+  .half-width {
+    width: 207px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1189px) and (max-width: 1270px){
+
+  .half-width {
+    width: 209px !important ;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1020px) and (max-width: 1070px){
+
+  .half-width {
+    width: 179px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1179px) and (max-width: 1189px){
+
+  .half-width {
+    width: 207px !important;
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+}
+@media (min-width: 1189px) and (max-width: 1270px){
+
+  .half-width {
+    width: 209px !important ;
+    width: calc(50% - 10px); /* Subtracting margin space */
   }
 }
