@@ -997,7 +997,7 @@ transition: ease .15s;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 830px;
+  height: 800px;
 background-position: top;
 }
 /*Blog*/
@@ -2732,13 +2732,13 @@ color: #020202;
   height: 1740px !important;
 }
 .services-image3{
-  height: 1280px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 1090px !important;
+  height: 1070px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1610px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -2749,12 +2749,11 @@ color: #020202;
 @media (min-width: 370px) and (max-width: 385px) {
 
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 16px !important; /* Change font size as needed */
-    font-weight: 400 !important;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
-  
   .roofing2 {
     color: #fff ;
     position: relative;
@@ -3078,12 +3077,12 @@ color: #020202;
 
   /* CSS to change the font and size of the placeholder text */
   .form-control::placeholder {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 17px; /* Change font size as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
     font-weight: 400;
-    color: #999; /* Change placeholder color as needed */
+    
   }
-
   .form-content {
     margin-top: 6.8em;
   }
@@ -3428,10 +3427,10 @@ color: #020202;
 @media (min-width: 100px) and (max-width: 370px) {
 
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 16px !important; /* Change font size as needed */
-    font-weight: 400 !important;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
   .roofing2 {
     color: #fff ;
@@ -3756,10 +3755,10 @@ color: #020202;
 
   /* CSS to change the font and size of the placeholder text */
   .form-control::placeholder {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 17px; /* Change font size as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
     font-weight: 400;
-    color: #999; /* Change placeholder color as needed */
   }
 
   .form-content {
@@ -4105,10 +4104,10 @@ color: #020202;
 @media (min-width: 385px) and (max-width: 410px) {
 
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 16px !important; /* Change font size as needed */
-    font-weight: 400;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
   .roofing2 {
     color: #fff ;
@@ -4435,10 +4434,10 @@ color: #020202;
 
   /* CSS to change the font and size of the placeholder text */
   .form-control::placeholder {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 17px; /* Change font size as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
     font-weight: 400;
-    color: #999; /* Change placeholder color as needed */
   }
 
   .form-content {
@@ -4785,10 +4784,10 @@ color: #020202;
 @media (min-width: 410px) and (max-width: 425px) {
 
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 17.3px !important; /* Change font size as needed */
-    font-weight: 400;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
   .roofing2 {
     color: #fff ;
@@ -5115,10 +5114,10 @@ color: #020202;
 
   /* CSS to change the font and size of the placeholder text */
   .form-control::placeholder {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 17.3px !important; /* Change font size as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
     font-weight: 400;
-    color: #999; /* Change placeholder color as needed */
   }
 
   .form-content {
@@ -5467,10 +5466,10 @@ color: #020202;
 
   
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 17.3px !important; /* Change font size as needed */
-    font-weight: 400 !important;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
   .roofing2 {
     color: #fff ;
@@ -5797,10 +5796,10 @@ color: #020202;
 
   /* CSS to change the font and size of the placeholder text */
   .form-control::placeholder {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 17.3px !important; /* Change font size as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
     font-weight: 400;
-    color: #999; /* Change placeholder color as needed */
   }
 
   .form-content {
@@ -6172,17 +6171,17 @@ color: #020202;
     padding-right: 2.3em !important;
   }
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 14.3px !important; /* Change font size as needed */
-    font-weight: 400 !important;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
     /* CSS to change the font and size of the placeholder text */
     .form-control::placeholder {
-      font-family: "Barlow Condensed", sans-serif !important;
-      font-size: 14.3px !important; /* Change font size as needed */
-      font-weight: 400 !important;
-      color: #999; /* Change placeholder color as needed */
+      font-family: "Open Sans", sans-serif;
+      font-size: 15px; /* Change font size as needed */
+      color: #686868; /* Change placeholder color as needed */
+      font-weight: 400;
     }
   
   .mt-minus{
@@ -7034,17 +7033,17 @@ padding: 0em 0em !important;
     padding-right: 2.3em !important;
   }
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 14.3px !important; /* Change font size as needed */
-    font-weight: 400 !important;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
     /* CSS to change the font and size of the placeholder text */
     .form-control::placeholder {
-      font-family: "Barlow Condensed", sans-serif !important;
-      font-size: 14.3px !important; /* Change font size as needed */
-      font-weight: 400 !important;
-      color: #999; /* Change placeholder color as needed */
+      font-family: "Open Sans", sans-serif;
+      font-size: 15px; /* Change font size as needed */
+      color: #686868; /* Change placeholder color as needed */
+      font-weight: 400;
     }
   
   .mt-minus{
@@ -8291,9 +8290,10 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 
 .list-text{
@@ -8420,7 +8420,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 930px;
+  height: 900px;
   width: 400px;
   margin-left: 2em;
   object-fit: cover;
@@ -8453,19 +8453,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1760px !important;
+  height: 1630px !important;
 }
 .services-image2{
   height: 1870px !important;
 }
 .services-image3{
-  height: 1510px !important;
+  height: 1420px !important;
 }
 .services-image4{
-  height: 1270px !important;
+  height: 1230px !important;
 }
 .services-image5{
-  height: 1970px !important;
+  height: 1880px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -8515,18 +8515,18 @@ z-index: -1; /* Ensure it is behind the image */
     margin-top:  -.2em;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 }
 @media (min-width: 1070px) and (max-width: 1100px){
   .custom-select {
-    font-family: "Barlow Condensed", sans-serif !important;
-    font-size: 15px !important; /* Change font size as needed */
-    font-weight: 200;
-    color: #767976 !important; /* Change placeholder color as needed */
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
   }
   .service-font-type{
     color:  #121212;
@@ -8849,9 +8849,10 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 
 .list-text{
@@ -8976,7 +8977,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 930px;
+  height: 900px;
 background-position: top;
 }
 .about-page-link{
@@ -9006,19 +9007,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1760px !important;
+  height: 1630px !important;
 }
 .services-image2{
   height: 1870px !important;
 }
 .services-image3{
-  height: 1510px !important;
+  height: 1430px !important;
 }
 .services-image4{
-  height: 1270px !important;
+  height: 1240px !important;
 }
 .services-image5{
-  height: 1970px !important;
+  height: 1890px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -9396,15 +9397,16 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -9528,7 +9530,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 930px;
+  height: 920px;
 background-position: top;
 }
 .about-page-link{
@@ -9558,19 +9560,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1760px !important;
+  height: 1630px !important;
 }
 .services-image2{
-  height: 1870px !important;
+  height: 1880px !important;
 }
 .services-image3{
-  height: 1510px !important;
+  height: 1414px !important;
 }
 .services-image4{
-  height: 1270px !important;
+  height: 1220px !important;
 }
 .services-image5{
-  height: 1970px !important;
+  height: 1890px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -9952,15 +9954,16 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -10082,12 +10085,7 @@ text-align: center;
 .appointment p{
   font-size: .91em;
 }
-.about-img{
-  background-image: url(../img/about-page-image.jpg);
-  background-size: cover;
-  height: 930px;
-background-position: top;
-}
+
 .about-page-link{
   white-space: nowrap;
 }
@@ -10114,21 +10112,7 @@ background-position: top;
   margin-left: 2.7em;
   margin-top: 1em;
 }
-.services-image1{
-  height: 1760px !important;
-}
-.services-image2{
-  height: 1870px !important;
-}
-.services-image3{
-  height: 1510px !important;
-}
-.services-image4{
-  height: 1270px !important;
-}
-.services-image5{
-  height: 1970px !important;
-}
+
 .py-15{
   padding-bottom: 8em;
   padding-top: 1em;
@@ -10508,15 +10492,16 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -10644,7 +10629,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 930px;
+  height: 840px;
 background-position: top;
 }
 .about-page-link{
@@ -10674,19 +10659,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1640px !important;
+  height: 1480px !important;
 }
 .services-image2{
-  height: 1780px !important;
+  height: 1790px !important;
 }
 .services-image3{
-  height: 1350px !important;
+  height: 1250px !important;
 }
 .services-image4{
-  height: 1170px !important;
+  height: 1120px !important;
 }
 .services-image5{
-  height: 1820px !important;
+  height: 1740px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -11076,15 +11061,16 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -11210,7 +11196,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 930px;
+  height: 840px;
 background-position: top;
 }
 .about-page-link{
@@ -11240,19 +11226,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1680px !important;
+  height: 1500px !important;
 }
 .services-image2{
   height: 1790px !important;
 }
 .services-image3{
-  height: 1360px !important;
+  height: 1270px !important;
 }
 .services-image4{
-  height: 1180px !important;
+  height: 1130px !important;
 }
 .services-image5{
-  height: 1830px !important;
+  height: 1770px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -11640,15 +11626,16 @@ position: absolute;
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -11768,7 +11755,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 760px;
+  height: 724px;
 background-position: top;
 }
 .about-page-link{
@@ -11798,19 +11785,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1550px !important;
+  height: 1430px !important;
 }
 .services-image2{
   height: 1720px !important;
 }
 .services-image3{
-  height: 1260px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 108 0px !important;
+  height: 1060px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1600px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -12205,15 +12192,16 @@ background-size: contain !important;  }
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -12333,7 +12321,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 760px;
+  height: 730px;
 background-position: top;
 }
 .about-page-link{
@@ -12363,19 +12351,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1550px !important;
+  height: 1430px !important;
 }
 .services-image2{
   height: 1720px !important;
 }
 .services-image3{
-  height: 1260px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 108 0px !important;
+  height: 1060px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1600px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -12770,15 +12758,16 @@ background-size: contain !important;  }
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -12898,8 +12887,8 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 760px;
-background-position: top;
+  height: 730px;
+  background-position: top;
 }
 .about-page-link{
   white-space: nowrap;
@@ -12928,19 +12917,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1550px !important;
+  height: 1430px !important;
 }
 .services-image2{
   height: 1720px !important;
 }
 .services-image3{
-  height: 1260px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 108 0px !important;
+  height: 1060px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1610px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -13339,15 +13328,16 @@ background-size: contain !important;  }
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -13467,7 +13457,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 760px;
+  height: 730px;
 background-position: top;
 }
 .about-page-link{
@@ -13497,19 +13487,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1550px !important;
+  height: 1430px !important;
 }
 .services-image2{
   height: 1720px !important;
 }
 .services-image3{
-  height: 1260px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 108 0px !important;
+  height: 1060px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1610px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -13908,15 +13898,16 @@ background-size: contain !important;  }
   z-index: 2; /* Ensure it's above the carousel */
 }
 .form-control::placeholder {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px; /* Change font size as needed */
-  color: #999; /* Change placeholder color as needed */
+  color: #686868; /* Change placeholder color as needed */
+  font-weight: 400;
 }
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -14036,7 +14027,7 @@ text-align: center;
 .about-img{
   background-image: url(../img/about-page-image.jpg);
   background-size: cover;
-  height: 760px;
+  height: 730px;
 background-position: top;
 }
 .about-page-link{
@@ -14066,19 +14057,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1550px !important;
+  height: 1440px !important;
 }
 .services-image2{
   height: 1720px !important;
 }
 .services-image3{
-  height: 1260px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 108 0px !important;
+  height: 1070px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1600px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -14139,8 +14130,9 @@ z-index: -1; /* Ensure it is behind the image */
 @media (min-width: 1800px) and (max-width: 1900px){
   .form-control::placeholder {
     font-family: "Open Sans", sans-serif;
-    font-size: 17px; /* Change font size as needed */
+    font-size: 16px; /* Change font size as needed */
     color: #686868; /* Change placeholder color as needed */
+    font-weight: 400;
   }
   .border-left{
     margin-left: 7em;
@@ -14483,10 +14475,10 @@ background-size: contain !important;  }
 }
 
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif !important;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -14636,19 +14628,19 @@ background-position: top;
   margin-top: 1em;
 }
 .services-image1{
-  height: 1550px !important;
+  height: 1450px !important;
 }
 .services-image2{
   height: 1720px !important;
 }
 .services-image3{
-  height: 1260px !important;
+  height: 1140px !important;
 }
 .services-image4{
-  height: 108 0px !important;
+  height: 1070px !important;
 }
 .services-image5{
-  height: 1690px !important;
+  height: 1610px !important;
 }
 .py-15{
   padding-bottom: 8em;
@@ -15098,10 +15090,10 @@ background-size: contain !important;  }
 }
 
 .custom-select {
-  font-family: "Barlow Condensed", sans-serif !important;
-  font-size: 15px !important; /* Change font size as needed */
-  font-weight: 200;
-  color: #767976 !important; /* Change placeholder color as needed */
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px; /* Change font size as needed */
+  color: #686868; /* Change placeholder color as needed */
+  height: 55px;
 }
 .list-text{
   color: #020202;
@@ -16846,5 +16838,54 @@ right: 50% !important;
 
   margin-left: 19.8em;
   
+  }
+}
+@media (min-width: 1170px) and (max-width: 1200px){
+  .about-img{
+    background-image: url(../img/about-page-image.jpg);
+    background-size: cover;
+    height: 920px;
+  background-position: top;
+  }
+
+  .services-image1{
+    height: 1610px !important;
+  }
+  .services-image2{
+    height: 1880px !important;
+  }
+  .services-image3{
+    height: 1420px !important;
+  }
+  .services-image4{
+    height: 1220px !important;
+  }
+  .services-image5{
+    height: 1900px !important;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1270px){
+
+  .about-img{
+    background-image: url(../img/about-page-image.jpg);
+    background-size: cover;
+    height: 830px;
+  background-position: top;
+  }
+
+  .services-image1{
+    height: 1480px !important;
+  }
+  .services-image2{
+    height: 1790px !important;
+  }
+  .services-image3{
+    height: 1250px !important;
+  }
+  .services-image4{
+    height: 1120px !important;
+  }
+  .services-image5{
+    height: 1740px !important;
   }
 }
