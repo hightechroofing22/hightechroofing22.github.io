@@ -6013,8 +6013,806 @@ color: #020202;
       margin-bottom: -.25em;
     }
   }
+  @media (min-width: 510px) and (max-width: 699px){
+    
+  .blog-header{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+    color: #252f30;
+    font-size: 2.2em !important;
+    line-height: 1.1 !important;
+
+  }
+  .blog-weather-title{
+    font-size: 1.85em !important;
+    font-weight: 700;
+    line-height: 1.1 !important;
+    font-weight: 600 !important;
+  color: #020202;
+    font-style: normal;
+  }
+  .py-contact-section{
+    padding: 1.25em 0em 1em 0em !important;
+  }
+  .font-type-feature-section{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+    font-size: 1.8em !important;
+    color: #101a24;
+    font-style:  italic;
+  }
+  .py-features{
+    padding: 2em .65em 3.5em .65em !important;
+  }
+  .feature-img{
+    height: 360px !important;
+    width: 700px;
+    object-fit: cover;
+    margin-bottom: -.75em !important;
+  }
+  .mt-custom-projects{
+    margin-top: -.8em !important ;
+  }
+  .about-image-height{
+    height: 360px !important;
+    margin-top: -2.75em !important;
+  }
+  .font-type-about-section{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+    line-height: 1.1em;
+    color:  #000 !important;
+    font-size: 2.75em !important;
+      font-style: normal;
+  }
+  .px-7{
+    padding-left: 1.25em !important;
+    padding-right: 1.25em !important;
+    }
+    .py-6 {
+      padding-top: 65px !important;
+      padding-bottom: 15px !important;
+  }
+  .py-about-us{
+    padding: .75em 0em;
+  }
+  .reviews{
+    display: block !important;
+    margin-top: .95em !important;
+  }
+  .stars-container{
+    display: inline-flex !important;
+    align-items: center !important;
+  }
+  .stars-container p{
+  margin-left: 3.5em !important;
+  display: inline-block;
+  align-items: center;
+  font-size: 1em !important;
+  
+  }
+  .stars-container b{
+  margin-right: .3em;
+  font-size: 1em !important;
+  display: inline-block;
+  align-items: center;
+  }
+  .stars{
+    width: 10px ;
+    margin-left: 3px !important;
+    object-fit: contain;
+    margin-top: .315em !important ;
+    align-items: center; 
+  height: auto !important;
+  }
+  .google-logo {
+    height: auto !important;  /* Maintain aspect ratio */
+    margin-top: -5px !important; /* Adjust the margin as needed */
+    display: block; /* Ensure the image takes its own line */
+    width: 2.5em !important;
+    margin-bottom: 10px; /* Space between the image and the button */
+  }
+  .google-logo2 {
+    height: auto !important;  /* Maintain aspect ratio */
+    margin-top: -5px !important; /* Adjust the margin as needed */
+    display: block; /* Ensure the image takes its own line */
+    object-fit: contain;
+    width: 2.5em !important;
+    margin-left: 0em !important;
+    margin-bottom: 10px; /* Space between the image and the button */
+  }
+  .custom-select {
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; /* Change font size as needed */
+    color: #686868; /* Change placeholder color as needed */
+    height: 55px;
+  }
+  .roofing2 {
+    color: #fff ;
+    position: relative;
+  }
+  .about-us-page-content{
+    padding-left: 1.3em !important;
+  }
+  .contact-content{
+    margin-top: -8em !important;
+    margin-bottom: 9em;
+  }
+  .pt-contact-page{
+    padding-top: .1em ;
+    margin-top: 1.75em;
+  }
+  .about-page-link{
+    color: #121212;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500 !important;
+      font-style: italic;
+      font-size: 2em;
+      text-decoration: underline;
+      cursor: pointer;
+      margin-top: -3em;
+  }
+  .margin-bottom-projects{
+    margin-bottom: .25em !important;
+  }
+  .roofing2::after {
+    content: "";
+    position: absolute;
+    bottom: 3px; /* Adjust the distance between text and underline */
+    left: 0;
+    width: 100%;
+    border-bottom: 6px solid #F62427; /* Adjust the thickness as needed */
+  
+    }
+  .navbar .navbar-brand {
+    position: relative;
+    padding-right: 30px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    }
+  .mt-minus{
+    margin-top: -2em !important;
+  }
+  .contact-section-padding{
+    padding-right: .7em !important;
+   }
+  .projects{
+    margin-bottom: .75em;
+    margin-top: 3.75em !important;
+  }
+  .chooseus{
+    padding: .2em !important;
+    margin-bottom: 7em !important;
+  }
+  .choose-us-header{
+    color: #121212   ;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      text-shadow: 1px 6px 2px rgba(0, 0, 0, 0.05); /* Adjust the values as needed */
+      font-size: 2.5em !important;
+    }
+  .about-section-font{
+    color: #121212   ;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      text-shadow: 1px 6px 2px rgba(0, 0, 0, 0.05); /* Adjust the values as needed */
+    
+    font-size: 2.9em;
+    }
+    .font-type-service-header{
+      text-align: center;
+      text-transform: capitalize;
+      font-size: 1.82em;
+      color: #070707;
+      font-family: "Bebas Neue", sans-serif !important;
+      font-weight: 500 !important;
+      letter-spacing: .4px;
+  
+    }  
+  .about-section-content{
+    padding-right: 0em;
+    margin-left: 0em !important;
+  }
+  .margins1{
+    margin-bottom: 0px;
+    margin-right: 0px; /* Adjust this value to reduce the space between the input boxes */
+  }
+  .margins2{
+    margin-bottom: 0px;
+    margin-right:  0px; /* Adjust this value to reduce the space between the input boxes */
+    margin-left:  0px;
+  }
+  .font-type-services{
+    font-family: "Bebas Neue", sans-serif;
+  
+  font-weight: 400 !important;
+  color: #121212;
+  font-size: 2em;
+  }
+
+  .roofing10{
+    color: #fff ;
+    position: relative;
+  }
+  
+  .roofing10::after {
+    content: "";
+    position: absolute;
+    bottom: 4px; /* Adjust the distance between text and underline */
+    left: 0;
+    width: 100%;
+    border-bottom: 5px solid #F62427; /* Adjust the thickness as needed */
+  
+    }
+
+  .font-type-projects-page{
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600 !important;
+      font-style: normal;
+      font-size: 2.35em;
+      margin-bottom: .5em;
+      color: #020202;
+      margin-top: -.25em;
+  }
+
+  .p-l-5{
+    margin-left: .17em;
+    margin-top: -2.75em !important;
+  }
+  .services-image1{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image-flooring{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image-window{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image-door{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image-extensions{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image-renovation{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image-carpentry{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image-media-walls{
+    height: 335px !important;
+    width: 100%;
+  }
+  .services-image2{
+    height: 36.5vh !important;
+  }
+  .services-image3{
+    height: 36.5vh !important;
+  }
+  .services-image4{
+    height: 36.5vh !important;
+  }
+  .services-image5{
+    height: 36.5vh !important;
+  }
+  .display-phone{
+    display: block !important;
+  }
+  .about-text{
+    margin-top: -4.5em;
+  }
+  .py-15{
+    padding-bottom: 4em;
+    padding-top: 1em !important;
+  }
+
+  
+
+  .page-header .breadcrumb-item,
+  .page-header .breadcrumb-item a {
+    font-size: 22px !important;
+    font-family: "Barlow Condensed", sans-serif !important;
+    font-weight: 400 !important;
+      font-style: normal;
+  }
+  
+
+  .font-type-page-header{
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: .5px;
+    font-weight: 500 !important;
+      font-style: normal;
+      font-size: 3.55em !important;
+      margin-top: -.4em;
+  }
+  
+  .font-type-page-header-double{
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: .5px;
+    font-weight: 500 !important;
+      font-style: normal;
+      line-height: 1 !important;
+      font-size: 3.45em !important;
+      margin-top: -.8em;
+  }
+  
+  .page-header {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.3449754901960784) 100%),
+    url(../img/carousel-1.jpg) center center no-repeat;
+    height: 290px;
+  }
+  .service-font-type{
+    color:  #121212;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500 !important;
+      font-style: normal;
+      margin-top: 0em !important;
+      line-height: 1.1 !important;
+      font-size: 2.52em !important;
+    }
+
+
+.font-future-about-page{
+  color:  #121212;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 500 !important;
+    font-style: normal;
+    font-size: 2.75em !important;
+  }
+  
+  .about-img{
+    background-image: url(../img/about-page-image.jpg);
+    background-size: cover;
+    height: 40vh;
+    margin-bottom: -1em !important;
+    width: 90%;
+    margin:  0 5%;
+  background-position: top;
+  }
+  .section-header-text-page{
+    color: #979797;
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      font-size: 1.650em;
+      letter-spacing: 0px;
+  }
+
+  .icon-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border: 1.5px solid #fff; /* Adjust color as needed */
+    border-radius: 50%;
+  }
+  
+  .icon-container i {
+    font-size: 18px;
+    color: #fff; /* Adjust color as needed */
+  }
+
+  .logo {
+    width: 8.5em;
+    margin-right: 0.5em;
+    margin-top: .25em !important;
+  }
+
+  .clipping-mask2 {
+    display: none;
+  }
+  .clipping-mask4{
+    display: none;
+  }
+
+  .clipping-mask {
+    display: none;
+  }
+
+  .fb-mobile {
+    margin-top: .1em;
+    padding-right: 3em;
+  }
+
+  .topbar-text1 {
+    white-space: nowrap;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600 !important; 
+    font-style: normal;
+    color: #fff;
+    margin-left: .61em !important;
+
+    margin-bottom: 1em;
+    font-size: 1.31em !important;
+  }
+
+  .icon-outline2 {
+    -webkit-text-stroke: 1px #fff; /* Outline color and width */
+    color: transparent; /* Hide the fill color */
+    font-size: 17px; /* Adjust size as needed */
+    margin-right: 8px; /* Space between icon and text */
+    transform: rotate(120deg);
+  }
+
+  .facebook-icon-mobile {
+    font-size: 15px !important;
+    margin-top: 7px;
+  }
+
+  .carousel-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .text-container {
+    position: absolute;
+    top: 49.25%;
+    left: 25% !important;
+    transform: translate(-55%, -50%) ;
+    width: 100% !important;
+  }
+  .border-left{
+    border-left: white solid 2px;
+    margin-top: 0em !important;
+    right: 110% !important;
+    margin-left: 2em !important;
+  }
+    /*** Header ***/
+.carousel-caption {
+  top: 0;
+  left: 0%;
+  right: 0;
+  bottom: 0;
+  align-items: center;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0, .93) 0%, rgba(0,0,0,0.3449754901960784) 100%);  z-index: 1;
+}
+.carousel-content{
+  margin-left: 1.5em;
+}
+
+ 
+  .carousel-item {
+    height: 760px;
+    width: 100%;
+  }
+
+  .header-text {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+    font-style: normal;
+    color: #fff;
+    font-size: 3.13em;
+  }
+
+  .body-text {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400 !important;
+    font-size: 1.2em;
+  }
+
+  .btn-carousel {
+    display: none;
+  }
+
+  .btn-colour-form {
+    background-color: #000000;
+    padding: .5em 2.1em;
+    white-space: nowrap;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600 !important;
+    font-style: normal;
+    color: #fff;
+    font-size: 1.1em;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+    margin-right: 5px; /* Adjust this value to reduce the space between the input boxes */
+  }
+
+  .form-row {
+   }
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+
+  .half-width {
+    width: calc(50% - 10px); /* Subtracting margin space */
+  }
+
+  .taller {
+    height: auto; /* Change height to auto */
+  }
+
+  .taller input {
+    height: calc(100% - 30px); /* Subtract the height of the icon placeholder */
+  }
+
+  .taller i {
+    margin-top: 2px; /* Adjust as needed */
+  }
+
+  .taller textarea {
+    height: 150px; /* Adjust the height as needed */
+  }
+
+  .form-group.taller i {
+    height: calc(100% - 13px); /* Subtract the height of the icon placeholder */
+    resize: none; /* Prevent resizing of the textarea */
+  }
+
+  .form-group {
+    position: relative;
+    margin-bottom: 15px; /* Adjust margin between form groups */
+  }
+
+  .form-group i {
+    position: absolute;
+    top: 55%;
+    left: 20px;
+    transform: translateY(-50%);
+    font-size: .8em;
+    color: #73737399; /* Adjust icon color if needed */
+    margin-left: .3em;
+    padding-left: .2em;
+  }
+
+  .form-group input,
+  .form-group textarea {
+    width: calc(100% - 30px); /* Adjust width and padding as needed */
+    padding: 10px;
+    padding-left: 30px; /* Ensure enough space for the icon */
+    margin-left: 1em;
+    background-color: #ECECEC;
+    border: 1px solid #ECECEC; /* Adjust border color if needed */
+  }
+
+  .form-container {
+    position: relative;
+  }
+
+
+
+
+  .slant {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 60px; /* Adjust the height as needed */
+    background-color: white; /* Background color */
+    clip-path: polygon(0% 85%, 100% 0%, 100% 100%, 0% 100%);
+    z-index: 2; /* Ensure it's above the carousel */
+  }
+
+  .list-text{
+    color: #020202;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500 !important;
+      font-style: italic;
+      font-size: 1.54em;
+  }
+  .list-text-about{
+    color: #020202;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 800 !important;
+      font-style: italic;
+      font-size: 1.54em;
+  }
+  .about-img-container {
+    position: relative;
+  }
+  
+  .about-img-container .shadow-box {
+    position: absolute;
+    top: -15px; /* Adjust the position as needed */
+    left: 45px; /* Adjust the position as needed */
+    width: 70%; /* Adjust the size as needed */
+    height: 95%; /* Adjust the size as needed */
+    margin-left: 2em ;
+
+    background: rgb(241,34,38);
+    background: linear-gradient(180deg, rgba(241,34,38,1) 0%, rgba(159,24,29,1) 100%);     z-index: -1; /* Ensure it is behind the image */    z-index: -1; /* Ensure it is behind the image */
+  }
+
+  
+  .about-img-container img {
+    position: relative;
+    z-index: 1;
+  }
+  .about-img-home{
+    height: auto;
+    width: 90%;
+    margin-bottom: -1em;
+  margin-left: .0000001em ;
+
+}
+  .service{
+    margin-top: 2.75em !important;
+  }
+  .about-section{
+    margin-top: 3em;
+  }
+  .font-future-about-section{
+    color: #020202;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600 !important;
+      font-style: normal;
+    font-size: 2.25em;
+    }
+  /* Styling for mobile top bar */
+
+  .section-header-text{
+    color: #979797;
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400 !important;    
+      font-size: 1.70em !important;
+      letter-spacing: .1px;
+      margin-bottom: .6em !important;
+  }
+  .body-text-dark{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400 !important;     
+    font-size: 1.1em;
+    color: #020202;
+  }
+  .font-type-service{
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 800 !important;
+    letter-spacing: .4px;
+      font-style: normal;
+      font-size: 1.95em;
+    color: #070707;
+  }
+
+  .service-item2 p{
+    text-align: center;
+    padding: 0 1em;
+  }
+
+
+  .swiper-pagination {
+    position: absolute;
+    bottom: -70px !important; /* Adjust the distance from the bottom as needed */
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+  .swiper-pagination .swiper-pagination-bullet {
+      background-color: #2e2d2d;
+  }
+
+  .swiper {
+      overflow: visible !important;
+  }
+
+  .review-scroll {
+      max-height: 200px;
+      overflow-y: auto;
+  }
+
+  ::-webkit-scrollbar {
+      width: 5px;
+  }
+
+  ::-webkit-scrollbar-track {
+      background: #f1f1f1;
+  }
+
+  ::-webkit-scrollbar-thumb {
+      background: #797979;
+      border-radius: 5px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+      background: #555;
+  }
+
+  
+          .swiper-slide {
+        width: calc(100% - 20px);
+        margin: 0 auto;
+      }
+    
+
+      .swiper-slide {
+        width: calc(90% - 30px);
+        margin: 0 auto;
+      }
+
+
+    .swiper-slide {
+      box-sizing: border-box;
+    }
+
+
+ 
+  .appointment {
+    background: linear-gradient(to right, rgba(3, 3, 3, 0.692), rgba(0, 0, 0, .63)), url(../img/appointment.jpg) left bottom no-repeat;
+    background-size: cover;
+    height: 1121px;
+    margin-bottom: 7em !important;
+  }
+  .font-type-contact{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400 !important;
+      font-style: normal;
+      color: #ffffff;
+      font-size: 3em;
+      padding-right: 1em;
+  }
+  .navbar .navbar-nav .nav-link {
+    margin-right: 35px;
+    padding: 10px 0;
+    color: #231F20;
+    font-size: 22px;
+    font-weight: 600;
+    outline: none;
+    font-family: "Roboto", sans-serif !important;
+    font-style: normal;}
+
+      .iframe-container {
+        width: 95% !important;
+        padding-top: 100%; /* This makes the container a square */
+        height: 50% !important;
+    }
+
+    .iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100% !important;
+    }
+    .shadow-box-contact {
+      position: absolute;
+      top: -15px; /* Adjust the position as needed */
+      left: 130px; /* Adjust the position as needed */
+      width: 60%; /* Adjust the size as needed */
+      height: 90%; /* Adjust the size as needed */
+      background-color: #1E1E1E; /* Black color */
+      z-index: -1; /* Ensure it is behind the image */
+    }
+    
+  .logo {
+    width: 8.5em;
+    margin-right: 0.5em;
+    margin-bottom: 0em !important;
+    margin-left: -1.2em;
+    }
+    .navbar .navbar-brand::after {
+      position: absolute;
+      content: "";
+      width: 50px;
+      height: 100%;
+      top: 0;
+      right: 0px;
+      }  
+   
+    .navbar-toggler{
+      margin-right: -.75em !important;
+      margin-bottom: -.25em;
+    }
+  }
+
 /* Media query for screens between 410px and 425 */
-@media (min-width: 425px) and (max-width: 699px) {
+@media (min-width: 425px) and (max-width: 510px) {
 
   .blog-header{
     font-family: "Bebas Neue", sans-serif;
