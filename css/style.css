@@ -19592,3 +19592,7 @@ color: #252f30;
 .display-phone{
   display: none ;
 }
+.phone-icon-footer {
+  display: inline-block;
+  transform: rotate(20deg) !important;
+}
