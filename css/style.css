@@ -721,6 +721,14 @@ background-size: cover; /* Ensures the image covers the entire container */
     letter-spacing: .7px;
     margin-top: -0.01em;
 }
+.font-type-page-header-drone{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400 !important;
+    font-style: normal;
+    font-size: 5.9em;
+    letter-spacing: .7px;
+    margin-top: -0.01em;
+}
 .font-type-page-header-double{
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400 !important;
@@ -2910,12 +2918,7 @@ color: #020202;
 }
 .about-page-link:hover{
   color: #121212;
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 600 !important;
-    font-style: italic;
-    font-size: 2.2em;
-    text-decoration: underline;
-    cursor: pointer;
+ 
 }
 .margin-reverse{
   margin-top: -.4em;
@@ -3025,6 +3028,12 @@ color: #020202;
 }
 /* Media query for screens between 300px and 385px */
 @media (min-width: 370px) and (max-width: 385px) {
+  .mt-contact-form-page{
+    margin-top: -3.5em;
+   }
+  .sidebar{
+    margin-top: -2em !important;
+  }
   .contact-us-page-header{
     font-family: "Bebas Neue", sans-serif;
   color: #000;
@@ -3773,8 +3782,8 @@ margin-left: -7px;
     font-weight: 500 !important;
       font-style: normal;
       line-height: 1;
-      font-size: 2.95em !important;
-      margin-top: -.75em;
+      font-size: 3em !important;
+      margin-top: -.77em;
   }
   
   .font-type-page-header-double{
@@ -3911,7 +3920,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 3.6em !important;
+    margin-top: 3.82em !important;
     right: 0% !important;
     height: 570px !important;
 
@@ -3933,7 +3942,7 @@ margin-left: -7px;
 
  
   .carousel-item {
-    height: 750px;
+    height: 770px;
     width: 100%;
   }
 
@@ -4258,6 +4267,12 @@ margin-left: -7px;
   }
 /* Media query for screens between 300px and 385px */
 @media (min-width: 100px) and (max-width: 370px) {
+  .mt-contact-form-page{
+    margin-top: -3.5em;
+   }
+  .sidebar{
+    margin-top: -2em !important;
+  }
   .contact-btn {
     background: linear-gradient(to right, #324d99, #253056);
     margin-top: .15em;
@@ -5028,7 +5043,7 @@ margin-left: -7px;
     font-weight: 500 !important;
       font-style: normal;
       line-height: 1;
-      font-size: 2.85em !important;
+      font-size: 2.8em !important;
       margin-top: -.75em;
   }
   
@@ -5166,7 +5181,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 3.6em !important;
+    margin-top: 3.9em !important;
     right: 0% !important;
     height: 570px !important;
 
@@ -5188,7 +5203,7 @@ margin-left: -7px;
 
  
   .carousel-item {
-    height: 750px;
+    height: 770px;
     width: 100%;
   }
 
@@ -5522,11 +5537,25 @@ margin-left: -7px;
         line-height: 1.1;
         font-size: 2.65em ;
       }
+      .border-left{
+        border-left: white solid 2px;
+        margin-top: 4.2em !important;
+        right: 0% !important;
+        height: 582px !important;
+    
+        margin-left: .6em !important;
+      }
 
     }
 
 /* Media query for screens between 300px and 385px */
 @media (min-width: 385px) and (max-width: 410px) {
+  .mt-contact-form-page{
+    margin-top: -3.5em;
+   }
+  .sidebar{
+    margin-top: -2em !important;
+  }
   
 .topbar-phone-link{
   font-size: .88em !important;
@@ -6283,7 +6312,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1;
       font-size: 3.1em !important;
-      margin-top: -.72em;
+      margin-top: -.76em;
   }
   
   .font-type-page-header-double{
@@ -6420,7 +6449,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 4.2em !important;
+    margin-top: 4.8em !important;
     right: 0% !important;
     height: 585px !important;
 
@@ -6442,7 +6471,7 @@ margin-left: -7px;
 
  
   .carousel-item {
-    height: 770px;
+    height: 780px;
     width: 100%;
   }
 
@@ -6776,9 +6805,23 @@ margin-left: -7px;
     }
   
   }
+  @media (min-width: 394px) and (max-width: 409px) {
+    .header-text {
+      font-family: "Oswald", sans-serif;
+      font-weight: 600 !important;
+      font-style: normal;
+      color: #fff;
+      line-height: 1.1;
+      font-size: 2.9em !important;
+    }
+  
+  }
 
 /* Media query for screens between 410px and 425 */
-@media (min-width: 410px) and (max-width: 435px) {
+@media (min-width: 410px) and (max-width: 425px) {
+  .sidebar{
+    margin-top: -2em !important;
+  }
    .mt-contact-form-page{
     margin-top: -3.5em;
    }
@@ -7150,7 +7193,6 @@ margin-left: -7px;
     .body-text{
       font-family: "Lato", sans-serif !important;
       font-weight: 400 !important;
-      font-size: 1.45em;
       margin-top: .75em;
       margin-left: 0em;
       margin-bottom: .65em;
@@ -7528,7 +7570,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1;
       font-size: 3.75em !important;
-      margin-top: -.75em;
+      margin-top: -.85em;
   }
   .font-type-page-header-drone{
     font-family: "Bebas Neue", sans-serif;
@@ -7537,7 +7579,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1;
       font-size: 3.1em !important;
-      margin-top: -.72em;
+      margin-top: -.8em;
   }
   
   .font-type-page-header-double{
@@ -7547,7 +7589,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1 !important;
       font-size: 3.75em !important;
-      margin-top: -.8em;
+      margin-top: -.85em;
   }
   
   .page-header {
@@ -7674,7 +7716,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 4.8em !important;
+    margin-top: 5.35em !important;
     right: 0% !important;
     height: 583px !important;
 
@@ -7712,7 +7754,7 @@ margin-left: -7px;
   .body-text {
     font-family: "Barlow Condensed", sans-serif;
     font-weight: 400 !important;
-    font-size: 1.13em;
+    font-size: 1.1em !important;
     padding-right: 1.75em !important;
   }
 
@@ -8018,6 +8060,9 @@ margin-left: -7px;
     }
   }
   @media (min-width: 510px) and (max-width: 699px){
+    .sidebar{
+      margin-top: -2em !important;
+    }
     .mt-contact-form-page{
       margin-top: -3.5em;
      }
@@ -8767,7 +8812,7 @@ margin-left: -7px;
         font-style: normal;
         line-height: 1;
         font-size: 3.95em !important;
-        margin-top: -.8em;
+        margin-top: -.85em;
     }
     .font-type-page-header-drone{
       font-family: "Bebas Neue", sans-serif;
@@ -8775,8 +8820,8 @@ margin-left: -7px;
       font-weight: 500 !important;
         font-style: normal;
         line-height: 1;
-        font-size: 3.1em !important;
-        margin-top: -.72em;
+        font-size: 3.5em !important;
+        margin-top: -.8em;
     }
     
     .font-type-page-header-double{
@@ -8787,7 +8832,7 @@ margin-left: -7px;
         line-height: 1 !important;
         padding-right: 1.5em !important;
         font-size: 3.95em !important;
-        margin-top: -.8em;
+        margin-top: -.85em;
     }
     
     .page-header {
@@ -9261,6 +9306,9 @@ margin-left: -7px;
 
 /* Media query for screens between 410px and 425 */
 @media (min-width: 435px) and (max-width: 447px) {
+  .sidebar{
+    margin-top: -2em !important;
+  }
   .mt-contact-form-page{
     margin-top: -3.5em;
    }
@@ -10009,8 +10057,8 @@ margin-left: -7px;
     font-weight: 500 !important;
       font-style: normal;
       line-height: 1;
-      font-size: 3.95em !important;
-      margin-top: -.8em;
+      font-size: 3.5em !important;
+      margin-top: -.85em ;
   }
   .font-type-page-header-drone{
     font-family: "Bebas Neue", sans-serif;
@@ -10018,8 +10066,8 @@ margin-left: -7px;
     font-weight: 500 !important;
       font-style: normal;
       line-height: 1;
-      font-size: 3.1em !important;
-      margin-top: -.72em;
+      font-size: 3.5em !important;
+      margin-top: -.8em;
   }
   
   .font-type-page-header-double{
@@ -10029,7 +10077,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1 !important;
       font-size: 3.95em !important;
-      margin-top: -.8em;
+      margin-top: -.85em;
   }
   
   .page-header {
@@ -10156,7 +10204,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 4.8em !important;
+    margin-top: 5.3em !important;
     right: 0% !important;
     height: 583px !important;
 
@@ -10501,6 +10549,9 @@ margin-left: -7px;
     }
   }
 @media (min-width: 448px) and (max-width: 510px) {
+  .sidebar{
+    margin-top: -2em !important;
+  }
   .mt-contact-form-page{
     margin-top: -3.5em;
    }
@@ -11250,7 +11301,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1;
       font-size: 3.95em !important;
-      margin-top: -.8em;
+      margin-top: -.85em;
   }
   .font-type-page-header-drone{
     font-family: "Bebas Neue", sans-serif;
@@ -11258,8 +11309,8 @@ margin-left: -7px;
     font-weight: 500 !important;
       font-style: normal;
       line-height: 1;
-      font-size: 3.1em !important;
-      margin-top: -.72em;
+      font-size: 3.5em !important;
+      margin-top: -.85em;
   }
   
   .font-type-page-header-double{
@@ -11269,7 +11320,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1 !important;
       font-size: 3.95em !important;
-      margin-top: -.8em;
+      margin-top: -.85em;
   }
   
   .page-header {
@@ -11396,7 +11447,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 4.8em !important;
+    margin-top: 5.3em !important;
     right: 0% !important;
     height: 583px !important;
 
@@ -11741,6 +11792,9 @@ margin-left: -7px;
     }
   }
 @media (min-width: 425px) and (max-width: 434px) {
+  .sidebar{
+    margin-top: -2em !important;
+  }
   .mt-contact-form-page{
     margin-top: -3.5em;
    }
@@ -12490,7 +12544,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1;
       font-size: 3.79em !important;
-      margin-top: -.8em;
+      margin-top: -.85em;
   }
   .font-type-page-header-drone{
     font-family: "Bebas Neue", sans-serif;
@@ -12499,7 +12553,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1;
       font-size: 3.5em !important;
-      margin-top: -.8em;
+      margin-top: -.85em;
   }
   
   .font-type-page-header-double{
@@ -12509,7 +12563,7 @@ margin-left: -7px;
       font-style: normal;
       line-height: 1 !important;
       font-size: 3.79em !important;
-      margin-top: -.8em;
+      margin-top: -.85em;
   }
   
   .page-header {
@@ -12636,7 +12690,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 4.8em !important;
+    margin-top: 5.3em !important;
     right: 0% !important;
     height: 583px !important;
 
@@ -29385,6 +29439,9 @@ line-height: 1 !important;
   transition: background-color 0.3s ease;
 }
 .contact-page-link{
+  color: #6e7174;
+}
+.contact-page-link:hover{
   color: #6e7174;
 }
 .contact-btn {
