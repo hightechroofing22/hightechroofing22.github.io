@@ -3240,7 +3240,7 @@ margin-top: .2em;
 }
 
 .choose-us-container .right-section img {
-    max-width: 100% !important;
+   width: 100% !important;
     height: 390px !important;
     margin-top: 1.25em !important;
     margin-left: auto !important;
@@ -4258,6 +4258,29 @@ margin-left: -7px;
   }
 /* Media query for screens between 300px and 385px */
 @media (min-width: 100px) and (max-width: 370px) {
+  .contact-btn {
+    background: linear-gradient(to right, #324d99, #253056);
+    margin-top: .15em;
+    color: #fff;
+    border: 0 !important;
+    font-weight: 500;
+    font-size: 1.05em !important;
+    text-transform: uppercase;
+    border-radius: .21em;
+  }
+  .contact-card-page-header{
+    font-weight: 400 !important;
+    font-size: 1.95em !important;
+    margin-bottom: .53em !important;
+    margin-top: 1em;
+    color: #000;
+    line-height: 1.2 !important;
+    font-family: "Bebas Neue", sans-serif;
+    text-transform: uppercase !important; 
+  }
+  .card-contact-page-size p{
+    font-size: 1.1em !important;
+  }
   .contact-us-page-header{
     font-family: "Bebas Neue", sans-serif;
   color: #000;
@@ -4473,7 +4496,7 @@ margin-top: .2em;
 }
 
 .choose-us-container .right-section img {
-    max-width: 100% !important;
+    width: 100% !important;
     height: 390px !important;
     margin-top: 1.25em !important;
     margin-left: auto !important;
@@ -5487,6 +5510,21 @@ margin-left: -7px;
       margin-right: -.75em !important;
       margin-bottom: -.75em;
     }}
+
+    @media (min-width: 380px) and (max-width: 388px) {
+
+
+      .header-text {
+        font-family: "Oswald", sans-serif;
+        font-weight: 600 !important;
+        font-style: normal;
+        color: #fff;
+        line-height: 1.1;
+        font-size: 2.65em ;
+      }
+
+    }
+
 /* Media query for screens between 300px and 385px */
 @media (min-width: 385px) and (max-width: 410px) {
   
@@ -5711,7 +5749,7 @@ margin-top: .2em;
 }
 
 .choose-us-container .right-section img {
-    max-width: 100% !important;
+   width: 100% !important;
     height: 420px !important;
     margin-top: 1.25em !important;
     margin-left: auto !important;
@@ -6382,7 +6420,7 @@ margin-left: -7px;
   }
   .border-left{
     border-left: white solid 2px;
-    margin-top: 3.6em !important;
+    margin-top: 4.2em !important;
     right: 0% !important;
     height: 585px !important;
 
@@ -6727,8 +6765,20 @@ margin-left: -7px;
       margin-bottom: -1em;
     }
   }
+  @media (min-width: 420px) and (max-width: 426px) {
+    .header-text {
+      font-family: "Oswald", sans-serif;
+      font-weight: 600 !important;
+      font-style: normal;
+      color: #fff;
+      line-height: 1.1;
+      font-size: 2.9em !important;
+    }
+  
+  }
+
 /* Media query for screens between 410px and 425 */
-@media (min-width: 410px) and (max-width: 425px) {
+@media (min-width: 410px) and (max-width: 435px) {
    .mt-contact-form-page{
     margin-top: -3.5em;
    }
@@ -6953,7 +7003,7 @@ margin-top: .2em;
 }
 
 .choose-us-container .right-section img {
-    max-width: 100% !important;
+   width: 100% !important;
     height: 460px !important;
     margin-top: 1.25em !important;
     margin-left: auto !important;
@@ -8716,8 +8766,8 @@ margin-left: -7px;
       font-weight: 500 !important;
         font-style: normal;
         line-height: 1;
-        font-size: 3.5em !important;
-        margin-top: -.85em;
+        font-size: 3.95em !important;
+        margin-top: -.8em;
     }
     .font-type-page-header-drone{
       font-family: "Bebas Neue", sans-serif;
@@ -9132,6 +9182,8 @@ margin-left: -7px;
       background: linear-gradient(to right, rgba(3, 3, 3, 0.692), rgba(0, 0, 0, .63)), url(../img/appointment.jpg) left bottom no-repeat;
       background-size: cover;
       height: 1150px;
+      margin-top: 4em !important;
+
       margin-bottom: 7em !important;
     }
     .font-type-contact{
@@ -9317,7 +9369,7 @@ text-transform: capitalize;
 font-size: 1.58em !important;
 line-height: 1.9 !important;
 align-items: baseline !important;
-margin-bottom: 1.1em;
+margin-bottom: 1em !important;
 margin-top: .2em;
 }
   .reviews-section-google-logo{
@@ -9433,7 +9485,7 @@ margin-top: .2em;
 }
 
 .choose-us-container .right-section img {
-    max-width: 100% !important;
+    width: 100% !important;
     height: 480px !important;
     margin-top: 1.25em !important;
     margin-left: auto !important;
@@ -9957,8 +10009,8 @@ margin-left: -7px;
     font-weight: 500 !important;
       font-style: normal;
       line-height: 1;
-      font-size: 3.5em !important;
-      margin-top: -.85em;
+      font-size: 3.95em !important;
+      margin-top: -.8em;
   }
   .font-type-page-header-drone{
     font-family: "Bebas Neue", sans-serif;
@@ -10372,6 +10424,8 @@ margin-left: -7px;
     background: linear-gradient(to right, rgba(3, 3, 3, 0.692), rgba(0, 0, 0, .63)), url(../img/appointment.jpg) left bottom no-repeat;
     background-size: cover;
     height: 1150px;
+    margin-top: 4em !important;
+
     margin-bottom: 7em !important;
   }
   .font-type-contact{
@@ -10555,7 +10609,7 @@ text-transform: capitalize;
 font-size: 1.58em !important;
 line-height: 1.9 !important;
 align-items: baseline !important;
-margin-bottom: 1.1em;
+margin-bottom: 1em !important; 
 margin-top: .2em;
 }
   .reviews-section-google-logo{
@@ -10671,7 +10725,7 @@ margin-top: .2em;
 }
 
 .choose-us-container .right-section img {
-    max-width: 100% !important;
+  width: 100% !important;
     height: 480px !important;
     margin-top: 1.25em !important;
     margin-left: auto !important;
@@ -11195,8 +11249,8 @@ margin-left: -7px;
     font-weight: 500 !important;
       font-style: normal;
       line-height: 1;
-      font-size: 3.5em !important;
-      margin-top: -.85em;
+      font-size: 3.95em !important;
+      margin-top: -.8em;
   }
   .font-type-page-header-drone{
     font-family: "Bebas Neue", sans-serif;
@@ -11610,6 +11664,8 @@ margin-left: -7px;
     background: linear-gradient(to right, rgba(3, 3, 3, 0.692), rgba(0, 0, 0, .63)), url(../img/appointment.jpg) left bottom no-repeat;
     background-size: cover;
     height: 1150px;
+    margin-top: 4em !important;
+
     margin-bottom: 7em !important;
   }
   .font-type-contact{
@@ -11909,7 +11965,7 @@ margin-top: .2em;
 }
 
 .choose-us-container .right-section img {
-    max-width: 100% !important;
+    width: 100% !important;
     height: 480px !important;
     margin-top: 1.25em !important;
     margin-left: auto !important;
