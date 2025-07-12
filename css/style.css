@@ -23996,28 +23996,28 @@ z-index: -1; /* Ensure it is behind the image */
     font-weight: 500 !important;
       font-style: normal;
       font-size: 4.5em !important;
-      margin-top:  -.35em;
+      margin-top:  -.4em;
   }
   .font-type-page-header-slating-tiling{
     font-family: "Bebas Neue", sans-serif;
     font-weight: 500 !important;
       font-style: normal;
       font-size: 4.5em !important;
-      margin-top:  -.32em;
+      margin-top:  -.4em;
   }
   .font-type-page-header-gutter{
     font-family: "Bebas Neue", sans-serif;
     font-weight: 500 !important;
       font-style: normal;
       font-size: 4.5em !important;
-      margin-top:  -.32em;
+      margin-top:  -.4em;
   }
   .font-type-page-header-drone{
     font-family: "Bebas Neue", sans-serif;
     font-weight: 500 !important;
       font-style: normal;
       font-size: 4.5em !important;
-      margin-top:  -.32em;
+      margin-top:  -.4em;
   }
   .font-type-page-header-double{
     font-family: "Bebas Neue", sans-serif;
@@ -29257,7 +29257,7 @@ font-size: 1.93em;
 .choose-us {
   position: relative;
   background: #fff;
-margin-top: -5em;
+margin-top: -5.4em;
 margin-bottom: -2.4em;
      padding: 150px 0; /* Adjust padding as needed */
      z-index: -12; /* Ensure overlays are below content */
@@ -29385,7 +29385,7 @@ margin-right: 20px;
 .choose-us-header{
   font-family: "Bebas Neue", sans-serif;
     text-transform: uppercase ;
-    line-height: 1.08;
+    line-height: 1;
   font-weight: 600 ;
   margin-left: 0em ;
   width: 100%;
@@ -29440,7 +29440,7 @@ height: 74px;
   font-family: "Bebas Neue", sans-serif;
 color: #000;
 font-weight: 400 !important;
-font-size: 4em;
+font-size: 4.2em;
 line-height: 1 !important;
 }
 .icon-colour-contact{
